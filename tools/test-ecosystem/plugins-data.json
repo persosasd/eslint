@@ -5,7 +5,7 @@
       "install": ["npm", "install"],
       "test": ["npm", "run", "test"]
     },
-    "commit": "16f2c58127880096c2f28f60cac94647e87e6f5b",
+    "commit": "38ac3ade993e0bd168a230c0ac8c583fc6978e0f",
     "repository": "https://github.com/eslint/css"
   },
   "@eslint/json": {
@@ -14,7 +14,7 @@
       "install": ["npm", "install"],
       "test": ["npm", "run", "test"]
     },
-    "commit": "f5b7923625ce3561683983df7f1655036ba628ef",
+    "commit": "412ad094b434a1795a1eef991915811b5ee8c6a6",
     "repository": "https://github.com/eslint/json"
   },
   "@eslint-community/eslint-plugin-eslint-comments": {
@@ -22,7 +22,7 @@
       "install": ["npm", "install"],
       "test": ["npm", "run", "test"]
     },
-    "commit": "de049807e525ac3e2d164c8873f9035b08eb23a6",
+    "commit": "de11b0e6db111ca9b605661f38521777e99d52bd",
     "repository": "https://github.com/eslint-community/eslint-plugin-eslint-comments"
   },
   "eslint-plugin-unicorn": {
@@ -30,7 +30,7 @@
       "install": ["npm", "install", "--legacy-peer-deps"],
       "test": ["npm", "run", "test"]
     },
-    "commit": "93f33eb2ced49c020015e0de793a7aba9c00a404",
+    "commit": "769e3b87da2a569976266851cb526aafe73a9194",
     "repository": "https://github.com/sindresorhus/eslint-plugin-unicorn"
   },
   "eslint-plugin-vue": {
@@ -39,7 +39,7 @@
       "install": ["npm", "install"],
       "test": ["npm", "run", "test"]
     },
-    "commit": "73f3ef48969d2fc9303f4a3aec9ea3a29b53838c",
+    "commit": "69edf073fbfd51d07420acbf057c3a880e3cb39e",
     "repository": "https://github.com/vuejs/eslint-plugin-vue"
   }
 }
